@@ -77,7 +77,7 @@ Mathematics->Scientific Programming: Laws, Techniques
 Computer Science->Scientific Programming: Algorithms, Software
 ```
 
-![Idealogy: Scientific Programming is an Amalgamation of Science, Mathematics, and Computer Science](flowchart.png)
+![Ideology: Scientific Programming is an Amalgamation of Science, Mathematics, and Computer Science](flowchart.png)
 
 ## We'll be dealing with
 
